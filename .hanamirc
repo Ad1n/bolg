@@ -1,0 +1,3 @@
+project=bolg
+test=rspec
+template=erb
